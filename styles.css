@@ -16,6 +16,7 @@ body{
     justify-content: center;
     height: calc(100vh-1px);
     margin: 1.25rem;
+    margin: 2rem;
 }
 
 .container{
@@ -66,7 +67,7 @@ body{
 }
 .profile-container{
     margin: 0 3rem 3rem 3rem;
-}
+}   
 
 
 .attribution { font-size: 11px; text-align: center; color: var(--White); }
